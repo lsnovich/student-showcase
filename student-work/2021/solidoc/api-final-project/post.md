@@ -43,7 +43,7 @@ The POST request specifies the patron's meal choices.
      "mealCat":{
   	  "main":"burgerMeal",
   	  "burger":{
-        "pattyType":"”beef”",
+        "pattyType":"beef",
         "pattyQty":1,
      	  "pattyWeightG":220,
      	  "pattyCook":"MR",
